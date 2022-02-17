@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/zheeyr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zheeyr" height="30" width="40" /></a>
 <a href="https://instagram.com/ynis_rsdt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ynis_rsdt" height="30" width="40" /></a>
-<a href="https://discord.gg/drunkapeclubnft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="drunkapeclubnft" height="30" width="40" /></a>
+<a href="https://discord.gg/drunkapeclub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="drunkapeclubnft" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
